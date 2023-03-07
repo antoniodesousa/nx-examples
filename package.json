@@ -35,6 +35,7 @@
     "@angular/platform-browser": "15.2.0",
     "@angular/platform-browser-dynamic": "15.2.0",
     "@angular/router": "15.2.0",
+    "@bloomreach/ng-sdk": "^19.0.2",
     "@emotion/babel-plugin": "11.10.5",
     "@emotion/react": "11.10.5",
     "@emotion/styled": "11.10.5",
